@@ -1,0 +1,7 @@
+Student Details
+Name: Rahul Mahananda
+Course: MCA
+Roll No: 25Mc143
+College: GITA Autonomous, BBSR
+Address: Balangir
+Status: Updated Successfully
